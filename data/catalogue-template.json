@@ -1,0 +1,12 @@
+{
+    "os2-open-source-solutions": [
+        {
+            "name": "OS2ProductName",
+            "git_url": "https://github.com/os2productname/repository"
+        },
+        {
+            "name": "OS2ProductName",
+            "git_url": "https://github.com/os2productname/repository"
+        }
+    ]
+}
