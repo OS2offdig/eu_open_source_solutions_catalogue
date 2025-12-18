@@ -2,7 +2,7 @@
 
 ## 🚀 OS2 Public Code Repository
 
-This repository holds essential data for OS2 projects and products to be indexed in the EU Open Source Solutions Catalogue. 🌍🔍
+This repository holds essential data for OS2 projects and products to be indexed in the [EU Open Source Solutions Catalogue](https://interoperable-europe.ec.europa.eu/eu-oss-catalogue). 🌍🔍
 
 ## 🎯 Purpose
 
